@@ -17,7 +17,7 @@ Dive into the world of cutting-edge conversational AI with our React-based chatb
 
 ### 1. Clone the Repository 🔄
 ```bash```
-git clone https://github.com/your-username/ReactChatBot.git
+git clone https://github.com/Amaan9136/react-chatbot.git
 
 ### 2. Install Dependencies 📦
 ```bash```
@@ -26,9 +26,6 @@ npm install
 ### 3. Run the Development Server 🚀
 ```bash```
 npm start
-
-### Documentation 🔍
-Explore in-depth information in our documentation to understand the project structure, API usage, and contribution guidelines. 📚🤓
 
 ### Community 🙌
 Connect with fellow developers, share your ideas, and seek help in our community forums. Let's learn and grow together! 🌐👩‍💻👨‍💻
